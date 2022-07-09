@@ -1,3 +1,4 @@
+## BACALAH KETENTUAN DENGAN SEKSAMA - KAMI AKAN MENGANGGAP GUGUR JIKA PROSES TIDAK SESUAI
 ## LANGKAH PENGERJAAN TEST BATCH III DAN KETENTUAN
 
 1. Clone project test dengan cara - git clone -b master --alamat url repository

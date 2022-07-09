@@ -1,6 +1,6 @@
 ## LANGKAH PENGERJAAN TEST BATCH III DAN KETENTUAN
 
-1. Clone project test dengan cara - git clone -b main --alamat url repository
+1. Clone project test dengan cara - git clone -b master --alamat url repository
 2. sebelum mengerjakan test  buat branch baru dengan format nama/       test-fe-kawahedukasi contoh: 
         - git branch hambaly/test-fe-kawahedukasi
         - git checkout hambaly/test-fe-kawahedukasi

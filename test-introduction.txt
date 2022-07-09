@@ -1,0 +1,68 @@
+Isilah data pribadi : 
+
+Nama : 
+Alamat Email: 
+Waktu Mulai :
+Waktu Selesai :
+
+CARA PENGERJAAN!!!
+
+buatlah file baru sesuai dengan number PERTANYAAN
+
+contoh: test_soal1.js
+
+PERTANYAAN !!
+
+1. Kami mempunyai data array dengan data : 
+
+    var data1 = [1, 1, 1, 2, 2, 4, 1, 1 ]
+    var data2 = [2, 1, 2, 2, 2, 8, 1, 1 ]
+    var data3 = [3, 3, 3, 3, 2, 4, 1, 1 ]
+
+    - buatlah sebuah program untuk menampilkan banyak angka yang keluar
+    output yang di inginkan : total data paling banyak keluar adalah #angka dengan jumlah #10
+
+    - contoh:
+        var data = [2, 2, 2, 2, 4, 2, 1]
+        output : total data paling banyak keluar adalah 2 dengan jumlah 5
+
+
+2. Kami mempunyai masalah pada validasi huruf dan angka, perusahaan kami membutuhkan validasi untuk pengecekan apakah inputan ini sesuai dengan keinginan kami
+
+    var input1 = "hallo jesika24 selamat datang!"
+    var input2 = "hallo anggun selamat datang!"
+    var input3 = "hallo ** selamat datang!"
+    var input4 = "hallo Mariage889120! selamat datang!"
+
+    validasi yang di inginkan: 
+
+    - Jika inputan mengandung angka maka harus mengeluarkan output : Sistem kami menolak untuk inputan berisi angka 167283
+    - Jika inputan tidak mengandung angka maka harus mengeluarkan output : Sistem memeriksa data anda valid dengan ketentuan kami dengan inputan hallo justin selamat datang!
+
+    contoh : 
+
+    var input1 = "hallo mina23 selamat datang!"
+    expektasi output : Sistem kami menolak untuk inputan berisi angka 23
+
+    var input2 = "hallo amir selamat datang!"
+    expektasi output: Sistem memeriksa data anda valid dengan ketentuan kami dengan inputan hallo amir selamat datang!
+
+3. buatlah program looping untuk menampilkan output di bawah 
+
+   output 1:  
+
+    *
+    **
+    ***
+    ****
+    *****
+    ******
+
+    output 2: 
+
+            *
+           **
+          ***
+         ****
+        *****
+

@@ -12,10 +12,9 @@
     - git push origin nama/test-fe-kawahedukasi
 
     note: untuk nama diisi sesuai nama pribadi dan branch yang sudah di buat dengan nama pribadi contoh : hambaly/test-fe-kawahedukasi
-5. peserta wajib push hasil test di jam 3 sore, jika peserta kurang atau melebihi jam tersebut di anggap gugur
-6. test hanya berlaku satu hari tidak melebihi di hari senin jam 3 sore
-7. Jika peserta terlihat kerjasama atau saling contek code program satu sama lain sama maka akan di pastikan gugur / tidak diterima
-8. jika kode program sama maka akan di pastikan gugur
+5. Jika peserta terlihat kerjasama atau saling contek code program satu sama lain sama maka akan di pastikan gugur / tidak diterima
+6. jika kode program sama maka akan di pastikan gugur
+7. peserta wajib mengumpulkan soal test sebelum jam 3 sore
 
 
 ## SELAMAT MENGERJAKAN

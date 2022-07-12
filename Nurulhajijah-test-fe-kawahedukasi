@@ -63,3 +63,94 @@ PERTANYAAN !!
           ***
          ****
         *****
+        
+        
+        
+        
+        
+JABAWAN
+NO,1
+#include <iostream>
+ 
+using namespace std;
+ 
+int main()
+{
+  cout << "##  Program C++ Cari Nilai Terbesar  ##" << endl;
+  cout << "=======================================" << endl;
+  cout << endl;
+ 
+  int input[100], arr_count, i, max_num;
+ 
+  cout << "Input jumlah element Array: ";
+  cin >> arr_count;
+ 
+  cout << "Input "<< arr_count << " angka (dipisah dengan enter): " ;
+  cout << endl;
+ 
+  //menghitung berapa kali muncul tiap angka
+for(int c=0;c<n;c++)
+{
+total[c]=0;
+for(int i=0;i<n;i++)
+{
+if(bil[c]==bil[i])
+{
+total[c]++;
+}
+}
+}
+//menentukan nilai yang paling sering muncul
+for(int c=0;c<n;c++)
+{
+if(total[c]>k)
+{
+k=total[c];
+}
+}
+ 
+  cout  << "nilai yang paling sering muncul " << ;
+ 
+  cout << endl;
+  return 0;
+}
+
+
+
+No.3
+output1
+program :
+#include <stdio.h>
+ 
+int main(void)
+{
+  for (int i = 1; i <= 6; i++) {
+    for (int j = 1; j <= i; j++) {
+      printf("* ");
+    }
+    printf("\n");
+  }
+  return 0;
+
+}
+
+output 2
+program:
+#include <stdio.h>
+ 
+int main(void)
+{
+for (let i = panjang; i > 0; i--) {
+        for (let j = 1; j <= panjang; j++) {
+            if (j >= i) {
+                hasil += '* ';
+            } else {
+                hasil += ' '
+            }
+        }
+        hasil += '\n';
+    }
+    return hasil;
+}
+
+No.2

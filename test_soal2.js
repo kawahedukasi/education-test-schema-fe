@@ -17,4 +17,7 @@ function finalValidation(input) {
   return checkItNow;
 }
 //Debugging
+console.log(finalValidation(input1));
 console.log(finalValidation(input2));
+console.log(finalValidation(input3));
+console.log(finalValidation(input4));

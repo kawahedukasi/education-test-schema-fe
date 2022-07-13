@@ -16,6 +16,6 @@
 6. jika kode program sama maka akan di pastikan gugur
 7. peserta wajib mengumpulkan soal test sebelum jam 3 sore
 8. Jika peserta kesulitan ketika push atau terkait error & 403 file tersebut bisa di upload atau push ke github pribadi dan di set secara public, kemudian cantumkan link repositories pribadi yang sudah di jawab ke google form agar panitia bisa mengecek hasil jawaban
-
+n
 
 ## SELAMAT MENGERJAKAN
